@@ -1,0 +1,5 @@
+hub UofL_Bioinformatics
+shortLabel UofL_Bioinformatics
+longLabel UofL_Bioinformatics LONG LABEL NAME GOES HERE
+genomesFile genomes.txt
+email eric.rouchka@louisville.edu

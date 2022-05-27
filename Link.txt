@@ -1,0 +1,1 @@
+http://genome.ucsc.edu/cgi-bin/hgHubConnect?hgHub_do_redirect=on&hgHubConnect.remakeTrackHub=on&hgHub_do_firstDb=on&position=chr1:1,000,000-1,010,000&hubUrl=http://bioinformatics.louisville.edu/~rouchka/UofL_Bioinformatics/hub.txt
